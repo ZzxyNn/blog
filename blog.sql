@@ -1,6 +1,4 @@
-﻿# Host: localhost  (Version 5.6.17)
-# Date: 2017-09-01 13:00:58
-# Generator: MySQL-Front 6.0  (Build 1.64)
+﻿#Sql for blog
 
 
 #
